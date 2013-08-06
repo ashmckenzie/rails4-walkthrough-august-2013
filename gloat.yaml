@@ -1,0 +1,10 @@
+---
+decks:
+  -
+    name: Rails 4 Walkthrough
+    description: Rails 4 Walkthrough
+    author: Ash McKenzie
+    slug: rails4-walkthrough
+    theme: hooroo
+    slides:
+      - rails4_walkthrough.md
