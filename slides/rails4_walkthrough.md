@@ -23,7 +23,7 @@
 
 !SLIDE
 
-# Major new fatures
+# Major new features
 
 ![Rails 4 - what's new](/assets/images/rails4_features.png)
 
@@ -264,7 +264,7 @@
 
 !SLIDE classes="small-bullets"
 
-# What's didn't make it?
+# What didn't make it?
 
 * Rails.queue
 * Thor as Rake replacement
